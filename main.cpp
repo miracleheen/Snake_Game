@@ -100,7 +100,6 @@ void Logic() {
 		earlier_X = earlier_2X;
 		earlier_Y = earlier_2Y;
 	}
-
 	switch (choice) {
 	case KEY_LEFT: X--; break;
 
